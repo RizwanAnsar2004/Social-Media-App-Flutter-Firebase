@@ -1,0 +1,7 @@
+1. The textfields should be checked if they are empty. Empty textfields should display a snack message. This thing needs to be done in Login, signup, forgot password, new password view.
+2. The snack message should be at the top of the page and not the bottom because it looks weird with the keyboard.
+3. Need to animate the spalsh screen
+4. Change the icon of the app.
+5. Should add a menu on the left of the Feed View. (Not now)
+6. Make a color file in the constants
+7. Change the splash screen images to svg. Tried it didn't work

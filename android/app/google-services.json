@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "71914470507",
+    "project_id": "moneyup-9413e",
+    "storage_bucket": "moneyup-9413e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71914470507:android:58a0d137abe40f5fca052e",
+        "android_client_info": {
+          "package_name": "com.example.moneyup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71914470507-26vt0td1sf6osnogdd9a033f6jsn87cn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moneyup",
+            "certificate_hash": "d96fde8230a16b465520550ba02437108cb2999a"
+          }
+        },
+        {
+          "client_id": "71914470507-ovb7tiohhgrd285j5l61m4dhp62jbbv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQGN6Ykj6LVRJtz9hLe0oO68wD2CuzOo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71914470507-ovb7tiohhgrd285j5l61m4dhp62jbbv2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "71914470507-ge84neiscgssdh0o3nvvagms9kjg3gk8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moneyup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
